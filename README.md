@@ -8,7 +8,8 @@
 
 ## Docker installation
 ###### pull an image from Dockerhub
-$ docker pull axzc/flask-keras-web-app1 &nbsp;
+$ docker pull axzc/flask-keras-web-app1
+ &nbsp;
 $  docker run -d -p 5000:5000 axzc/flask-keras-web-app1
 
 ## Local installation
